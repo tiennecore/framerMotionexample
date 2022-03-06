@@ -1,0 +1,10 @@
+@import "base";
+@import "pages/index";
+@import "pages/framer";
+@import "components/hover";
+
+@import url('https://api.fontshare.com/css?f[]=author@300,400,500,700&display=swap');
+
+.container {
+  font-family: 'Author', sans-serif;
+}
